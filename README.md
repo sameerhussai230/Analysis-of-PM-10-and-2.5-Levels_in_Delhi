@@ -1,7 +1,7 @@
 
 # Analysis of Particulate Matter (PM 10 & 2.5) Levels in Delhi
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Seaborn%20%7C%20Plotly-orange) ![Status](https://img.shields.io/badge/Status-Completed-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Seaborn%20%7C%20Plotly-orange) ![Status](https://img.shields.io/badge/Status-Completed-green) ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📄 Project Overview
 This project provides a data-driven analysis of air pollution trends in Delhi, specifically focusing on Particulate Matter (PM 10 and PM 2.5). The analysis spans historical data from **January 2017 to November 2022**, exploring seasonal variations, meteorological correlations, and comparative trends against other major Indian cities.
